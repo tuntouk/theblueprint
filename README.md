@@ -1,0 +1,2 @@
+# theblueprint
+decentralized everything
